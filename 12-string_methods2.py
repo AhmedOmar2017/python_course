@@ -48,8 +48,8 @@ print(g.startswith("I"))
 print("#######################################")
 
 # [8] endwith => which end with this char take start, end 
-print(g.startswith("I",7, 12))
+print(g.endswith("I",7, 12))
 print("#######################################")
-print(g.startswith("g"))
+print(g.endswith("g"))
 print("#######################################")
 

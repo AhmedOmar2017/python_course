@@ -100,3 +100,13 @@
 
 ## Tut26
 1. ### set
+
+## Tut 27
+1. ### clear()
+2. ### Union()
+3. ### add()
+4. ### copy()
+5. ### Remove()
+6. ### discard()
+7. ### pop()
+8. ### update()

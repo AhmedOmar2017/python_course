@@ -92,7 +92,7 @@
 
 ## Tut25
 1. ### one element
-2. ### concate
+2. ### concat
 3. ### repeat
 4. ### method count
 5. ### method index
@@ -110,3 +110,11 @@
 6. ### discard()
 7. ### pop()
 8. ### update()
+
+## Tut 28
+1. ### differance()
+2. ### Differance_update()
+3. ### Intersection()
+4. ### Intersection_update()
+5. ### Symmetric_differance()
+6. ### Symmetric_differance_update()
